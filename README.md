@@ -1,1 +1,1 @@
-This is my several books' pdfs and personal notes in relation to software
+Several books and personal notes related to software engineering
